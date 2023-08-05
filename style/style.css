@@ -1,0 +1,24 @@
+body {
+    background: rgb(95,93,126);
+    background: linear-gradient(90deg, rgb(98, 110, 78) 0%, rgba(117,115,58,1) 28%, rgba(0,212,255,1) 100%);
+    display: block;
+    overflow-x: hidden;
+}
+
+#posts {
+    width: 40%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    position: relative;
+    left: 23rem;
+    top: 8rem;
+    margin-bottom: 50px;
+}
+
+#footer {
+    color: black;
+    position: relative;
+    top: 125px;
+    left: 370px;
+}
