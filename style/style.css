@@ -1,6 +1,6 @@
 body {
     background: rgb(95,93,126);
-    background: linear-gradient(90deg, rgb(98, 110, 78) 0%, rgba(117,115,58,1) 28%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, rgb(133, 146, 112) 0%, rgb(167, 164, 94) 28%, rgb(80, 130, 139) 100%);
     display: block;
     overflow-x: hidden;
 }
@@ -17,8 +17,15 @@ body {
 }
 
 #footer {
-    color: black;
+    background-color: black;
+    width: 125%;
+    height: 120px;
     position: relative;
     top: 125px;
-    left: 370px;
+    left: 0px;
+}
+
+.Author {
+    position: relative;
+    margin-top: 3rem;
 }
