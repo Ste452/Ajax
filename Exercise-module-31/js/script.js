@@ -14,7 +14,7 @@ function getUser(user) {
     })
         .then((Response) => Response.json())
         .then((data) => {
-           text += `${data.name} possui ${data.public_repos} repositório público no GitHub como ${data.login}<br>`
+           text += `${data.name} possui ${data.public_repos} repositório público no GitHub como ${data.login} <br>`
            main.innerHTML = text
         })    
     
