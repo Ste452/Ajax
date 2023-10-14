@@ -1,0 +1,43 @@
+body {
+    background: rgb(95,93,126);
+    background: linear-gradient(90deg, rgb(133, 146, 112) 0%, rgb(167, 164, 94) 28%, rgb(80, 130, 139) 100%);
+    display: block;
+    overflow-x: hidden;
+}
+
+#posts {
+    width: 40%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    position: relative;
+    left: 23rem;
+    top: 8rem;
+    margin-bottom: 50px;
+}
+
+#footer {
+    background-color: black;
+    width: 125%;
+    height: 120px;
+    position: relative;
+    top: 125px;
+    left: 0px;
+}
+
+.Author {
+    position: relative;
+    margin-top: 3rem;
+}
+
+button {
+    position: relative;
+    top: -0.8rem; 
+    left: 96px;
+}    
+
+input {
+    position: relative;
+    top: 1.5rem;
+    left: -8.2rem;
+}

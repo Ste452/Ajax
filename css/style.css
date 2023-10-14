@@ -29,3 +29,15 @@ body {
     position: relative;
     margin-top: 3rem;
 }
+
+button {
+    position: relative;
+    top: -0.8rem; 
+    left: 96px;
+}    
+
+input {
+    position: relative;
+    top: 1.5rem;
+    left: -8.2rem;
+}
