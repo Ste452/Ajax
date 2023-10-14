@@ -32,12 +32,20 @@ body {
 
 button {
     position: relative;
+<<<<<<< HEAD
     top: -0.8rem; 
     left: 96px;
+=======
+    top: 4.5rem; 
+>>>>>>> 7ca83e33c62547c96b6eb3f6cb0f1aa62204da3e
 }    
 
 input {
     position: relative;
+<<<<<<< HEAD
     top: 1.5rem;
+=======
+    top: 2.5rem;
+>>>>>>> 7ca83e33c62547c96b6eb3f6cb0f1aa62204da3e
     left: -8.2rem;
 }
