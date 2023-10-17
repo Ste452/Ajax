@@ -1,0 +1,31 @@
+.card {
+    width: 32%;
+    float: left;
+    margin: 5px;
+}
+
+section {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+input,
+textarea {
+    margin-bottom: 1rem;
+}
+
+.gradient {
+    background: linear-gradient(to left, #252422, #534a58, #a8a2a2);
+  }
+  
+.img-fluid-2 {
+    max-width: 63.5%;
+    position: relative;
+    left: 3.55rem;
+}
+
+.img-fluid-3 {
+    max-width: 87.55%;
+    position: relative;
+    left: 0.55rem;
+}

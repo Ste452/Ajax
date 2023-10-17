@@ -1,0 +1,7 @@
+textarea.form-control {
+    width: 100% !important;
+}
+
+#new-button {
+    max-height: 70px;
+}
